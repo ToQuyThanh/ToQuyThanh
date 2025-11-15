@@ -14,26 +14,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToQuyThanh&theme=radical" alt="GitHub Streak" width="80%" />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 1000px; margin: 0 auto;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ToQuyThanh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="height: 185px;" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToQuyThanh&layout=compact&theme=radical" alt="Top Languages" style="height: 185px;" />
-</div>
-
-
-## GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ToQuyThanh&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
-## Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ToQuyThanh&theme=redical)
 
 ## Connect with Me
 
