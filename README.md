@@ -10,10 +10,7 @@
 
 ## GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ToQuyThanh&theme=radical" alt="GitHub Streak" width="80%" />
-</div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToQuyThanh&theme=dark)](https://github.com/ToQuyThanh)
 
 ## Connect with Me
 
